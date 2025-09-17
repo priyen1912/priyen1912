@@ -39,6 +39,30 @@
 <table>
   <tr>
     <td>
+      <a href="https://github.com/priyen1912/cross-platform-deployment-automation"><b>Cross-Platform Deployment Automation</b></a><br>
+      <i>
+        Designed an automation tool for packaging and deploying applications across Linux, Windows, and macOS, reducing manual deployment effort by <b>70%</b>.<br>
+        <ul>
+          <li>Implemented <b>Docker/Kubernetes</b> containers to streamline testing and deployment workflows.</li>
+          <li>Integrated with <b>GitHub Actions</b> for automated build, packaging, and deployment pipelines.</li>
+          <li>Installer scripts with <b>Bash</b> and <b>PowerShell</b> for cross-environment compatibility.</li>
+        </ul>
+      </i>
+      <b>Tech Stack:</b>
+      <img src="https://img.shields.io/badge/Python-blue?logo=python" />
+      <img src="https://img.shields.io/badge/C++-blue?logo=cplusplus" />
+      <img src="https://img.shields.io/badge/Docker-blue?logo=docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-blue?logo=githubactions" />
+      <img src="https://img.shields.io/badge/Bash-blue?logo=gnubash" />
+      <img src="https://img.shields.io/badge/PowerShell-blue?logo=powershell" />
+      <img src="https://img.shields.io/badge/Linux-lightgrey?logo=linux" />
+      <img src="https://img.shields.io/badge/macOS-lightgrey?logo=apple" />
+      <img src="https://img.shields.io/badge/Windows-lightgrey?logo=windows" />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/priyen1912/game-analytics-dashboard">
         <b>Game Analytics Dashboard</b>
       </a><br>
